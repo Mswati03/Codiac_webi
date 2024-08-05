@@ -1,0 +1,1 @@
+//this is the page which will  contain the hero details
